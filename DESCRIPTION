@@ -1,0 +1,11 @@
+Package: textutils
+Type: Package
+Title: Utilities for text processing while building models
+Version: 0.1.0
+Author: eellpp
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: GPL-3
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Imports: tm,caret,RSQLite,ROCR,topicmodels
